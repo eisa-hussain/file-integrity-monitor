@@ -16,13 +16,8 @@ A Python-based File Integrity Monitor that uses MD5 hashing to verify the integr
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/file-integrity-monitor.git
+    git clone https://github.com/eisa-hussain/file-integrity-monitor.git
     cd file-integrity-monitor
-    ```
-
-2. Ensure you have the required libraries installed. You can do this by running:
-    ```sh
-    pip install -r requirements.txt
     ```
 
 ## Usage
